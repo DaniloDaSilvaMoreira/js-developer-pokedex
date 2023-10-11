@@ -1,2 +1,1 @@
-# js-developer-pokedex
-projeto em javaScript
+# Trilha JS Developer - Pokedex
